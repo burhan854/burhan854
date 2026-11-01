@@ -49,6 +49,10 @@ Here are some of my repositories and practice work:
 - [My Work](https://github.com/burhan854/my-work)
 - [Git Demo](https://github.com/burhan854/git-demo)
 
+## 📱 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/burhan88766/)
+
 ## 📊 GitHub Stats
 
 <div align="center">
