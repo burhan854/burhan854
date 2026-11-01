@@ -34,6 +34,12 @@ My goal is to turn creative ideas into useful digital experiences and grow into 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🌐 Portfolio
+
+[![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://soft-pudding-52fc97.netlify.app/)
+
+Explore my portfolio website: **[soft-pudding-52fc97.netlify.app](https://soft-pudding-52fc97.netlify.app/)**
+
 ## 📌 Projects
 
 Here are some of my repositories and practice work:
