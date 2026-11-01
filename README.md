@@ -6,8 +6,10 @@
 
 ### Frontend Developer | Web Development Learner
 
-I enjoy building clean, responsive websites and learning new technologies.
-I'm focused on improving my frontend skills by practising and creating projects.
+I’m a passionate frontend developer in the making who enjoys creating clean, responsive, and user-friendly websites.
+I’m continuously improving my skills through hands-on practice, exploring new technologies, and building real projects.
+
+My goal is to turn creative ideas into useful digital experiences and grow into a confident professional web developer.
 
 [![GitHub followers](https://img.shields.io/github/followers/burhan854?label=Followers&style=for-the-badge)](https://github.com/burhan854)
 [![Profile views](https://komarev.com/ghpvc/?username=burhan854&style=for-the-badge&color=blue)](https://github.com/burhan854)
